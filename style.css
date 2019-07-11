@@ -1,0 +1,18 @@
+body{ 
+	margin:0;
+	padding: 0;
+	background: #fff;
+}
+.box{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 500px;
+	padding: 20px 10px;
+	border: 1px solid #c2c2c2;
+	border-radius: 5px;
+	box-sizing: border-box;	
+	overflow: hidden;
+	background-color: #c0dec0;
+}
